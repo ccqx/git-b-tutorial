@@ -6,3 +6,5 @@
 	- branch test
 	- fix-B
 	- feature-C 
+	- feature-d
+	- feature-d-pr
